@@ -16,7 +16,8 @@ Este projeto foi desenvolvido com base nos conceitos ensinados pela EBAC (Escola
 
 ---
 ## Alguns trechos do meu projeto:
-
+**Gráfico com top 10 produtos mais vendidos**
+![imagem do gráfico 1](https://github.com/Bezemon/sales-analysis-project/blob/main/images/grafico1.png)
 ---
 ## Como executar
 1. Clone este repositório: `git clone https://github.com/Bezemon/sales-analysis-project.git`
