@@ -1,5 +1,8 @@
-# sales-analysis-project
-Análise de vendas com visualizações e insights práticos usando Python.
+## Sales Analysis Project
+**Dataset Kaggle:** https://www.kaggle.com/datasets/beekiran/sales-data-analysis
+**Autor:** João Bezerril
+
+🎯**Objetivo do Projeto:** Meu objetivo com este projeto foi criar uma análise de vendas com visualizações e insights práticos usando Python.
 
 ## Conteúdo
 - Notebook de análise (`Análise_de_Vendas.ipynb`)
