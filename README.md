@@ -1,8 +1,8 @@
 ## Sales Analysis Project
 **Dataset Kaggle:** [Sales Data Analysis](https://www.kaggle.com/datasets/beekiran/sales-data-analysis) <br>
-
 **Autor:** João Bezerril
 
+---
 🎯**Objetivo do Projeto:** Meu objetivo com este projeto foi criar uma análise de vendas com visualizações e insights práticos usando Python.
 
 ## Conteúdo
