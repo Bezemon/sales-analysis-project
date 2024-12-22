@@ -5,6 +5,8 @@
 ---
 🎯**Objetivo do Projeto:** Meu objetivo com este projeto foi criar uma análise de vendas com visualizações e insights práticos usando Python.
 
+Este projeto foi desenvolvido com base nos conceitos ensinados pela EBAC (Escola Britânica de Artes e Tecnologia), que serviram como guia para a análise e organização dos dados. Além disso, fui auxiliado por ChatGPT, uma ferramenta de inteligência artificial, que contribuiu com sugestões técnicas e apoio na resolução de desafios ao longo do processo.
+
 ## Conteúdo
 - Notebook de análise (`Análise_de_Vendas.ipynb`)
 - Gráficos e visualizações interativas com Plotly
