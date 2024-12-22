@@ -30,7 +30,9 @@ Abaixo estão os gráficos gerados durante a análise, destacando tendências im
 ---
 ## Como Executar
 1. Clone este repositório: `git clone https://github.com/Bezemon/sales-analysis-project.git`
-2. Abra o arquivo `Análise_de_Vendas.ipynb` no Google Colab ou Jupyter Notebook.
-3. Faça o Upload do arquivo dataset `sales_data.csv`.
-4. Execute todas as células.
+2. Abra o arquivo `Análise_de_Vendas.ipynb` em um ambiente de sua preferência:
+   - Google Colab
+   - Jupyter Notebook
+3. Faça o upload do dataset sales_data.csv no ambiente escolhido.
+4. Execute todas as células do notebook para reproduzir a análise e os gráficos.
 
