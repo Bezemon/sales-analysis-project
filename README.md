@@ -1,4 +1,4 @@
-## Sales Analysis Project
+# Sales Analysis Project
 **Dataset Kaggle:** [Sales Data Analysis](https://www.kaggle.com/datasets/beekiran/sales-data-analysis) <br>
 **Autor:** João Bezerril
 
