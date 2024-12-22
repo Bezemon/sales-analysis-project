@@ -16,7 +16,7 @@ Este projeto foi desenvolvido com base nos conceitos ensinados pela EBAC (Escola
 
 ---
 ## Destaques do Projeto:
-Abaixo estão alguns dos principais gráficos gerados durante a análise, destacando tendências importantes e insights do dataset."
+Abaixo estão os gráficos gerados durante a análise, destacando tendências importantes e insights do dataset.
 
 **Ranking: 10 Produtos Mais Vendidos**
 ![Imagem do gráfico 1](https://github.com/Bezemon/sales-analysis-project/blob/main/images/grafico1.png)
