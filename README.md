@@ -15,11 +15,20 @@ Este projeto foi desenvolvido com base nos conceitos ensinados pela EBAC (Escola
 - Insights sobre sazonalidade, cidades de maior venda e produtos mais vendidos
 
 ---
-## Alguns trechos do meu projeto:
-**Gráfico com top 10 produtos mais vendidos**
-![imagem do gráfico 1](https://github.com/Bezemon/sales-analysis-project/blob/main/images/grafico1.png)
+## Destaques do Projeto:
+Abaixo estão alguns dos principais gráficos gerados durante a análise, destacando tendências importantes e insights do dataset."
+
+**Ranking: 10 Produtos Mais Vendidos**
+![Imagem do gráfico 1](https://github.com/Bezemon/sales-analysis-project/blob/main/images/grafico1.png)
+
+**Receita Total por Mês nas Vendas**
+![Imagem do gráfico 2](https://github.com/Bezemon/sales-analysis-project/blob/main/images/grafico2.png)
+
+**Desempenho de Vendas por Cidade**
+![Imagem do gráfico 3](https://github.com/Bezemon/sales-analysis-project/blob/main/images/grafico3.png)
+
 ---
-## Como executar
+## Como Executar
 1. Clone este repositório: `git clone https://github.com/Bezemon/sales-analysis-project.git`
 2. Abra o arquivo `Análise_de_Vendas.ipynb` no Google Colab ou Jupyter Notebook.
 3. Faça o Upload do arquivo dataset `sales_data.csv`.
